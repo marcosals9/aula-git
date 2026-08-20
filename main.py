@@ -1,5 +1,5 @@
 import os
 
 def main():
-    return "Hello World"
+    print("Hello World")
     
